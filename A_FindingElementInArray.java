@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FindingElementInAray {
+public class A_FindingElementInArray {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
